@@ -1,4 +1,4 @@
-name: Building and pushing docker image on every build
+name: Building and pushing docker image on every build.
 
 on:
   push:
