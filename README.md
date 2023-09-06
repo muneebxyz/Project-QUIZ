@@ -4,7 +4,7 @@
 Welcome to our interactive learning platform! This platform is designed to provide students with a collaborative and engaging learning environment. Students can interact with their peers by adding questions and quizzes, challenging and expanding their knowledge.
 
 ## Features
-- **Peer Engagement**: Students can engage with their peers by adding questions and quizzes to the platform.
+- **Peer Engagement**: Students can engage   with their peers by adding questions and quizzes to the platform.
 - **Interactive Quizzes**: The user-friendly interface allows students to create and share interactive quizzes.
 - **Collaborative Learning**: The platform fosters a collaborative learning environment, where students can learn from each other's questions and quizzes.
 - **Customizable Learning Experience**: With a wide range of subjects and topics to choose from, students can customize their learning experience.
