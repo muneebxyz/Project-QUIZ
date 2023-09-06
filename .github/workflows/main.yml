@@ -15,11 +15,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-     - name: Get the branch name
-        id: get_branch_name
-        run: |
-          BRANCH_NAME=$(echo $GITHUB_REF | sed 's/refs\/heads\///')
-          echo "::set-output name=branch_name::$BRANCH_NAME"
+    - name: Get the branch name
+      id: get_branch_name
+      run: |
+        BRANCH_NAME=$(echo $GITHUB_REF | sed 's/refs\/heads\///')
+        echo "::set-output name=branch_name::$BRANCH_NAME"
 
     - name: Get the latest commit ID
       id: get_commit_id
