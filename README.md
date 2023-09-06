@@ -1,4 +1,4 @@
-# QuizApp-Flask.
+# QuizApp-Flask..
 
 ## Introduction
 Welcome to our interactive learning platform! This platform is designed to provide students with a collaborative and engaging learning environment. Students can interact with their peers by adding questions and quizzes, challenging and expanding their knowledge.
