@@ -24,7 +24,7 @@ spec:
             topologyKey: "kubernetes.io/hostname"
       containers:
       - name: quiz-image
-        image: muneebxyz/simple-quiz-app:1.0
+        image: muneebxyz/simple-quiz-app:latest
         ports:
         - containerPort: 5000
 
